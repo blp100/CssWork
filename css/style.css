@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: normal;    
+    font-style: normal;
+    -moz-osx-font-smoothing: grayscale;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding: 100px 0 0 0;
+    position: relative;
+}
+h1{
+    margin: 0;
+    font-size: 5em;
+    font-family: 'Sacramento', cursive;
+    color: #11999E;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-cloud{
+    right: 35%;
+    top: 5%;
+    position: absolute;
+}
+.bottom-cloud{
+    bottom: 55%;
+    position: absolute;
+}
+.programmer-image{
+    width: 350px;
+    height: 350px;
+}
+.boardgamer-image{
+    width: 350px;
+    height: 350px;
+}
