@@ -22,6 +22,14 @@ h2{
     font-family: 'Montserrat', sans-serif;
     color: #66BFBF;
 }
+h3{
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
 .top-cloud{
     right: 300px;
     top: 50px;
