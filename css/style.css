@@ -5,6 +5,7 @@ body{
     font-weight: normal;    
     font-style: normal;
     -moz-osx-font-smoothing: grayscale;
+    color: #40514E;
 }
 .top-container{
     background-color: #EAF6F6;
@@ -30,7 +31,6 @@ h3{
     color: #11999E;
 }
 p{
-    color: #40514E;
     margin: 50px 0 50px 0;
 }
 a{
@@ -54,6 +54,11 @@ hr{
     left:100px;
     position: absolute;
 }
+.intro{
+    width: 35%;
+    margin: 0 auto 50px auto;
+}
+
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
@@ -102,6 +107,10 @@ hr{
 .contact-me{
     position: relative;
     margin-top: 50px;
+}
+.contact-info{
+    width: 35%;
+    margin: 0 auto 50px auto;
 }
 .bottom-container{
     position: relative;
