@@ -23,12 +23,12 @@ h2{
     color: #66BFBF;
 }
 .top-cloud{
-    right: 35%;
-    top: 5%;
+    right: 300px;
+    top: 50px;
     position: absolute;
 }
 .bottom-cloud{
-    bottom: 55%;
+    bottom: 300px;
     position: absolute;
 }
 .programmer-image{
