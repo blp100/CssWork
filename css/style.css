@@ -43,7 +43,7 @@ a{
     position: absolute;
 }
 .skill-row{
-    position: absolute;
+    position: relative;
     width: 50%;
 }
 .programmer-image{
