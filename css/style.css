@@ -29,6 +29,7 @@ h2{
 }
 .bottom-cloud{
     bottom: 300px;
+    left:100px;
     position: absolute;
 }
 .programmer-image{
