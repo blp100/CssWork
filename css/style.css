@@ -50,9 +50,11 @@ a{
 }
 .programmer-image{
     width: 25%;
-    height: 25%;
+    float: left;
+    margin-left: 30px;
 }
 .boardgamer-image{
     width: 25%;
-    height: 25%;
+    float: right;
+    margin-right: 30px;
 }
