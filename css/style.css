@@ -43,9 +43,8 @@ a{
     position: absolute;
 }
 .skill-row{
-    position: relative;
     width: 50%;
-    text-align: center;
+    margin: auto;
 }
 .programmer-image{
     width: 350px;
