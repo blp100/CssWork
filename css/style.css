@@ -42,6 +42,10 @@ a{
     left:100px;
     position: absolute;
 }
+.skill-row{
+    position: absolute;
+    width: 50%;
+}
 .programmer-image{
     width: 350px;
     height: 350px;
