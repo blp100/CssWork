@@ -7,7 +7,7 @@ body{
     -moz-osx-font-smoothing: grayscale;
 }
 .top-container{
-    background-color: #E4F9F5;
+    background-color: #EAF6F6;
     padding: 100px 0 0 0;
     position: relative;
 }
@@ -29,8 +29,20 @@ h3{
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
+p{
+    color: #40514E;
+    margin: 50px 0 50px 0;
+}
 a{
     color: #11999E;
+    text-decoration: none;
+    padding: 20px;
+    margin: 50px 0 50px 0;
+}
+hr{
+    width: 6%;
+    border-style: none;
+    border-top: 10px dotted #EAF6F6;
 }
 .top-cloud{
     right: 300px;
@@ -49,12 +61,56 @@ a{
     line-height: 2;
 }
 .programmer-image{
-    width: 30%;
+    width: 200px;
     float: left;
     margin-right: 30px;
 }
 .boardgamer-image{
-    width: 30%;
+    width: 200px;
     float: right;
     margin-left: 30px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;    
+    line-height: 2;
+}
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+.middle-container{
+    position: relative;
+}
+.contact-me{
+    position: relative;
+    margin-top: 50px;
+}
+.bottom-container{
+    position: relative;
+    margin: 100px 0px 0px 0px;
+    padding: 50px 0 50px 0;
+    background-color: #66BFBF;
+}
+.cc{
+    color: #EAF6F6;
+    font-size: 0.75em;  
+    margin: 50px 0 0 0;
 }
